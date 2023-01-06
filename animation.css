@@ -1,0 +1,53 @@
+/* Navbar Animation */
+.header {
+    animation-name: faderight;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-delay: 0.5s;
+    animation-iteration-count: 1;
+    animation-direction: alternate;
+}
+
+@keyframes faderight {
+    from {
+        width: 5%;
+    }
+
+    to {
+        width: 100%;
+        display: contents;
+    }
+}
+
+/* Banky-text Animation */
+.banky {
+    animation: textanimate 3s ease-in-out 0.5s 1 alternate;
+}
+
+@keyframes textanimate {
+    from {
+        font-size: 1em;
+    }
+
+    to {
+        font-size: 6em;
+    }
+}
+
+/* Stick-width Animation */
+.stick{
+    animation-name: stickanimate;
+    animation-duration: 3s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 0.5s;
+    animation-iteration-count: 1;
+    animation-direction: alternate;
+}
+@keyframes stickanimate {
+    from{
+        width: 0px;
+    }
+    to{
+        width: 250px;
+    }
+}
