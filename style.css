@@ -278,7 +278,7 @@ nav #menu li:hover::after {
     border-radius: 20px;
     position: relative;
     height: 350px;
-    background-image: url(/Assets/images/cards.jpg);
+    background-image: url(cards.jpg);
     background-position: center;
     background-size: cover;
     transition: 0.7s ease-in-out;
@@ -309,7 +309,7 @@ nav #menu li:hover::after {
     border-radius: 20px;
     position: relative;
     height: 350px;
-    background-image: url(/Assets/images/Fashion.jpg);
+    background-image: url(Fashion.jpg);
     background-position: center;
     background-size: cover;
     transition: 0.7s ease-in-out;
@@ -331,7 +331,7 @@ nav #menu li:hover::after {
     border-radius: 20px;
     position: relative;
     height: 350px;
-    background-image: url(/Assets/images/Advertisement.jpg);
+    background-image: url(Advertisement.jpg);
     background-position: center;
     background-size: cover;
     transition: 0.7s ease-in-out;
@@ -346,7 +346,7 @@ nav #menu li:hover::after {
     border-radius: 20px;
     position: relative;
     height: 350px;
-    background-image: url(/Assets/images/vacation.jpg);
+    background-image: url(vacation.jpg);
     background-position: center;
     background-size: cover;
     transition: 0.7s ease-in-out;
@@ -361,7 +361,7 @@ nav #menu li:hover::after {
     border-radius: 20px;
     position: relative;
     height: 350px;
-    background-image: url(/Assets/images/Expenses.jpg);
+    background-image: url(Expenses.jpg);
     background-position: center;
     background-size: cover;
     transition: 0.7s ease-in-out;
@@ -525,7 +525,7 @@ nav #menu li:hover::after {
 .sects1 {
     min-width: 300px;
     height: 500px;
-    background-image: url(/Assets/images/pngegg.png);
+    background-image: url(pngegg.png);
     background-position: center;
     background-size: cover;
     color: rgb(30, 39, 30);
@@ -658,7 +658,7 @@ nav #menu li:hover::after {
     position: relative;
     height: 80vh;
     clip-path: polygon(0% 15%, 15% 15%, 15% 0%, 85% 0%, 85% 22%, 100% 22%, 100% 85%, 85% 85%, 85% 100%, 33% 100%, 33% 85%, 0% 85%);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/Assets/images/duc-thanh-MWsDiBYu1EM-unsplash.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(duc-thanh-MWsDiBYu1EM-unsplash.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -810,7 +810,7 @@ nav #menu li:hover::after {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(/Assets/images/backgr.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(backgr.jpg);
     background-position: center;
     background-size: cover;
 }
